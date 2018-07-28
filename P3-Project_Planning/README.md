@@ -8,8 +8,14 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+1. ![wireframe 1](https://user-images.githubusercontent.com/37424390/43357313-250f010a-92b2-11e8-8924-14aeeb0a0f46.png)
+2.
+3.
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+https://www.pivotaltracker.com/n/projects/2186242
+
+### Initial Project Repository
+
+https://github.com/xiaoyuk/capstone.git

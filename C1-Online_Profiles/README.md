@@ -13,7 +13,8 @@ https://github.com/xiaoyuk
 https://www.linkedin.com/in/xiaoyuk
 
 ### Resume
-[Xiaoyu Ke resume liftoff.pdf](https://github.com/xiaoyuk/capstone/files/2259960/Xiaoyu.Ke.resume.liftoff.pdf)
+[Xiaoyu Ke resume liftoff.pdf](https://github.com/xiaoyuk/liftoff-assignments/files/2266510/Xiaoyu.Ke.resume.liftoff.pdf)
+
 
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository talk with your Mentor about an alternate way to submit this assignment.

@@ -19,4 +19,4 @@ https://www.pivotaltracker.com/n/projects/2186242
 
 ### Initial Project Repository
 
-https://github.com/xiaoyuk/capstone.git
+https://github.com/xiaoyuk/capstone-audiolog

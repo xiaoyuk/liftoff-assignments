@@ -7,4 +7,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-Upload a .PDF of your presentation here for review.
+[project presentation.pdf](https://github.com/xiaoyuk/liftoff-assignments/files/2365166/project.presentation.pdf)
